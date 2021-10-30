@@ -1,6 +1,7 @@
 (fp_lib_table
-  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/local.pretty")(options "")(descr ""))
-  (lib (name "pwm3360")(type "KiCad")(uri "${KIPRJMOD}/pwm3360.pretty")(options "")(descr ""))
-  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
-  (lib (name "env")(type "KiCad")(uri "${KIPRJMOD}/env.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Type-C.pretty")(options "")(descr ""))
+  (lib (name "pwm3360")(type "KiCad")(uri "${KIPRJMOD}/Footprints/pwm3360.pretty")(options "")(descr ""))
+  (lib (name "env")(type "KiCad")(uri "${KIPRJMOD}/Footprints/env.pretty")(options "")(descr ""))
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/Footprints/local.pretty")(options "")(descr ""))
+  (lib (name "MouseSwitch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MouseSwitch.pretty")(options "")(descr ""))
 )
