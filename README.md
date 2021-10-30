@@ -1,6 +1,6 @@
 # EnvOpenMouse
- A Open source mouse for the UK market.
-
+ An Open-source mouse for the UK market.
+ 
 ### Why?
 
 A lot of friends of mine would like something like a ploopyco mouse but there arent such options avaliable here in the UK and even then custom mouses as a whole is just not very popular.
