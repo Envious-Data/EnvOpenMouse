@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      6,
       8,
       9,
       10,
@@ -63,8 +62,8 @@
       35,
       36
     ],
-    "visible_layers": "ffc91ff_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "800ffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "sensor.kicad_prl",
