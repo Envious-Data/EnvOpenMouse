@@ -7,7 +7,7 @@
 *.bck
 *.kicad_pcb-bak
 *~
-KiCad/sensor-backups/*
+KiCad/EnvOpenMouse-backups/*
 
 _autosave-*
 *.tmp
