@@ -4,4 +4,5 @@
   (lib (name "env")(type "KiCad")(uri "${KIPRJMOD}/Footprints/env.pretty")(options "")(descr ""))
   (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/Footprints/local.pretty")(options "")(descr ""))
   (lib (name "MouseSwitch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MouseSwitch.pretty")(options "")(descr ""))
+  (lib (name "EC10E1220501")(type "KiCad")(uri "${KIPRJMOD}/Footprints/EC10E1220501.pretty")(options "")(descr ""))
 )
