@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
+          "45_degree_only": true,
           "min_clearance": 0.127
         }
       },
@@ -454,6 +454,10 @@
     [
       "8ba470d4-e08f-44d0-a74b-2d70d975113e",
       ""
+    ],
+    [
+      "9f72ca1b-f1ad-4788-a7d4-82833022a1a7",
+      "RP2040"
     ]
   ],
   "text_variables": {}
