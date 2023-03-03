@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.0,
-          "height": 2.5,
-          "width": 2.5
+          "drill": 0.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -525,10 +525,6 @@
     [
       "8ba470d4-e08f-44d0-a74b-2d70d975113e",
       ""
-    ],
-    [
-      "9f72ca1b-f1ad-4788-a7d4-82833022a1a7",
-      "RP2040"
     ]
   ],
   "text_variables": {}
