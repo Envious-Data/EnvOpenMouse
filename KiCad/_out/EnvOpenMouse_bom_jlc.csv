@@ -32,7 +32,7 @@
 " 27Ohms  0402 Resistor","R14","C_0402_1005Metric","no_part_number"
 " 27Ohms 0402 Resistor","R15","C_0402_1005Metric","no_part_number"
 "SW_Push_SPDT","SW1,SW2,SW3","MouseSwitch","no_part_number"
-"TLV75733PDBVR","U1","WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm","no_part_number"
+"AP2112K-3.3","U1","SOT-23-5","no_part_number"
 "TLV70218DBVR","U2","SOT-23-5","no_part_number"
 "BQ24074RGT","U3","VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm","no_part_number"
 "PMW3360DM-T2QU","U4","DIP-16_W10.16mm","no_part_number"
