@@ -56,9 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|71250000|101900000|16f9f84a-a09e-4dbc-b89d-d92cbcf11260|d29fbec3-a604-49f2-b8dd-3442753f2afd"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
