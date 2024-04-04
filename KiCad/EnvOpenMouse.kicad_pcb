@@ -1049,7 +1049,7 @@
     (property "ki_keywords" "connector")
     (path "/1eb41dfa-1633-4391-98ed-d25d1f7e40f8")
     (attr through_hole)
-    (fp_text reference "J4" (at 0 -1.695) (layer "F.SilkS")
+    (fp_text reference "J4" (at 0 -1.695) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c2ce30e1-6428-433c-9ce2-200544c64dc9)
     )
@@ -2470,7 +2470,7 @@
     (property "ki_keywords" "connector")
     (path "/0c204320-b68d-4179-9efd-3826f2e17cde")
     (attr through_hole)
-    (fp_text reference "J12" (at 0 -1.56 90) (layer "F.SilkS")
+    (fp_text reference "J12" (at 0 -1.56 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4c28c043-6e8f-4817-944f-4856dae11b3b)
     )
@@ -3127,7 +3127,7 @@
     (property "ki_keywords" "connector")
     (path "/f3f1205e-44aa-4778-9fa7-4d93030d56e7")
     (attr through_hole)
-    (fp_text reference "J11" (at 0 -1.695) (layer "F.SilkS")
+    (fp_text reference "J11" (at 0 -1.695) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 46364c98-1e26-4c44-b727-cc62cd05ed0b)
     )
