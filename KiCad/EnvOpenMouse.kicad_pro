@@ -54,6 +54,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.25,
+          "via_gap": 0.25,
+          "width": 0.6
         }
       ],
       "drc_exclusions": [
@@ -444,7 +449,7 @@
         "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.6,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -452,8 +457,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.4,
-        "via_drill": 0.2,
+        "via_diameter": 0.5,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -527,6 +532,14 @@
     [
       "8ba470d4-e08f-44d0-a74b-2d70d975113e",
       ""
+    ],
+    [
+      "71eda7d3-e477-4e02-9f03-8330dccfdae6",
+      "RP2040"
+    ],
+    [
+      "151e1836-a09d-4176-83e3-9538dcfe8cd4",
+      "Power and USB"
     ]
   ],
   "text_variables": {}
