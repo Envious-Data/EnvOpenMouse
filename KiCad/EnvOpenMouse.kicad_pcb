@@ -3926,7 +3926,12 @@
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp d0c374fe-9854-458d-8c89-d1b563bfd690))
     (pad "57" thru_hole circle (at 1.275 1.275) (size 0.6 0.6) (drill 0.35) (layers "*.Cu")
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp b69ea1c8-b486-4075-baba-8afc0181a502))
-    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl"
+    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/3d/RP2040_QFN_PACKAGE.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
