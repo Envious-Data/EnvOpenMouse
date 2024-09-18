@@ -2767,7 +2767,7 @@
 	(text_box "side button connectors"
 		(exclude_from_sim no)
 		(at 146.05 77.47 0)
-		(size 52.07 46.99)
+		(size 57.785 53.975)
 		(stroke
 			(width 0)
 			(type default)
@@ -2882,6 +2882,28 @@
 			(justify right bottom)
 		)
 		(uuid "ce68a7c4-8e72-43d3-826e-000842637f05")
+	)
+	(global_label "SB-5-A_MB"
+		(shape input)
+		(at 182.245 121.285 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "023b639e-dcda-46aa-b278-94e9233598ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.9367 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "MB-3-A"
 		(shape input)
@@ -3125,6 +3147,28 @@
 			)
 		)
 	)
+	(global_label "SB-5-A"
+		(shape input)
+		(at 159.385 121.285 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "36a75240-bec1-4413-b372-b38037dfec3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.3877 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MB-2-A_MB"
 		(shape input)
 		(at 80.01 50.8 0)
@@ -3138,6 +3182,28 @@
 		(uuid "378857a2-4201-41db-9a75-642049d95451")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 94.8642 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SB-6-A_MB"
+		(shape input)
+		(at 182.245 126.365 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "379f85a9-d97a-4669-bb71-c64cadbd9016")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.9367 126.365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3323,6 +3389,28 @@
 			)
 		)
 	)
+	(global_label "SB-5-A"
+		(shape input)
+		(at 123.825 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9869f1a0-c1b3-403f-a02f-7651339c49bc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 112.8223 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SB-2-A"
 		(shape input)
 		(at 159.385 97.155 0)
@@ -3455,6 +3543,28 @@
 			)
 		)
 	)
+	(global_label "SB-6-A"
+		(shape input)
+		(at 123.825 121.285 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cba9c3d8-bb3e-472c-9265-d3c3a32a21bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 112.8223 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SB-4-A_MB"
 		(shape input)
 		(at 182.245 111.125 0)
@@ -3561,6 +3671,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SB-6-A"
+		(shape input)
+		(at 159.385 126.365 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f0278a31-7faa-47c1-8f2b-2f71ac7036d6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.3877 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3966,6 +4098,73 @@
 			(project "EnvOpenMouse"
 				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.985 121.285 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c4af348-04e1-4f68-ae26-aedf57d2e52a")
+		(property "Reference" "#PWR052"
+			(at 140.335 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 137.16 121.285 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.985 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.985 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.985 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a1e0297-7b69-4e42-9bfe-a2a32f4b245c")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -5130,6 +5329,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 154.305 123.825 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b617478-d3bd-44b5-8fb0-519b886335e1")
+		(property "Reference" "J14"
+			(at 154.305 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.8mm BM03B"
+			(at 154.305 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SUR_BM03B-SURS-TF_1x03-1MP_P0.80mm_Vertical"
+			(at 154.305 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.305 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 154.305 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a4b9f801-b73e-40c4-b783-88ab2bde9125")
+		)
+		(pin "3"
+			(uuid "7e823c54-9e8c-4037-80b8-64f55ddba9c5")
+		)
+		(pin "2"
+			(uuid "b6ef59c2-c1c8-4070-a67c-1a48278b9764")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 80.01 53.34 90)
@@ -5409,6 +5680,73 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 133.985 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77532d8e-6e59-4c1a-8a2b-5e24cc6fb871")
+		(property "Reference" "#PWR051"
+			(at 140.335 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 137.16 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.985 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.985 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.985 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "051daf7c-8c5c-492d-8253-895893a4fc78")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 159.385 94.615 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5469,6 +5807,75 @@
 			(project "EnvOpenMouse"
 				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
 					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.905 121.285 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "833a387e-b7ca-4b87-81fd-ad9ae08a9181")
+		(property "Reference" "SW9"
+			(at 128.905 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_SPDT"
+			(at 128.905 117.1726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+			(at 128.905 116.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.905 116.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 128.905 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7e69305-44ef-461d-863e-bee0218e7233")
+		)
+		(pin "2"
+			(uuid "b18c3671-bc2c-4a01-a743-5166905d2cec")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -5978,6 +6385,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.905 114.3 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a305064f-b1e0-46bc-8f5e-e9a35a7a4e96")
+		(property "Reference" "SW8"
+			(at 128.905 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_SPDT"
+			(at 128.905 110.1876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+			(at 128.905 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.905 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 128.905 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c072a9ec-5ec6-4c89-bdfe-1185bb445597")
+		)
+		(pin "2"
+			(uuid "f9335655-a60b-4791-b46c-6825b239b371")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 31.75 48.26 0)
 		(unit 1)
@@ -6317,6 +6793,73 @@
 			(project "EnvOpenMouse"
 				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
 					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 159.385 123.825 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7a17a10-dc9f-4486-b1be-ce5e4754a09e")
+		(property "Reference" "#PWR053"
+			(at 165.735 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 123.825 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 159.385 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 159.385 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 159.385 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50d53c70-1dd8-4abd-a4b8-11586860ef6f")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -7543,6 +8086,145 @@
 			(project "EnvOpenMouse"
 				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.245 123.825 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbfabb14-f178-46c6-9093-ab2a18a98b20")
+		(property "Reference" "#PWR054"
+			(at 188.595 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 123.825 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.245 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.245 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.245 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef3fc0ed-8f31-4f12-8644-cd9f0f353b27")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 177.165 123.825 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fedbe1f4-f2db-4775-9542-3e9fc144735b")
+		(property "Reference" "J15"
+			(at 177.165 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.8mm BM03B"
+			(at 177.165 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SUR_BM03B-SURS-TF_1x03-1MP_P0.80mm_Vertical"
+			(at 177.165 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.165 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 177.165 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61a3e77e-6371-40b4-963a-b9c09ab5a11c")
+		)
+		(pin "3"
+			(uuid "4832a705-5806-41f8-951d-8f9d15bce18f")
+		)
+		(pin "2"
+			(uuid "a1fe18f1-a190-4543-bc35-49ddbdfc01b7")
+		)
+		(instances
+			(project "EnvOpenMouse"
+				(path "/8ba470d4-e08f-44d0-a74b-2d70d975113e"
+					(reference "J15")
 					(unit 1)
 				)
 			)
