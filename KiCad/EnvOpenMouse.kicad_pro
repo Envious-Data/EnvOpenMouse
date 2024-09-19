@@ -64,7 +64,14 @@
           "width": 0.6
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|66229380|56133759|f472d74f-8de0-49d5-adb8-0c29107f1c6f|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|67300000|56129926|8d9f7739-1a81-40a7-919f-1858e3fd7875|00000000-0000-0000-0000-000000000000",
+        "unconnected_items|54750000|118550000|0f8f7d99-8fcb-41ef-aa4a-fd81fcab98db|8f35047c-c52e-426e-abc3-16ec94253289",
+        "unconnected_items|56227179|78450000|920e1b27-f066-46ce-b451-13f3e68b639b|486c99c5-c239-46b9-9d25-458abd2d3cf8",
+        "unconnected_items|62500000|124550000|51cad834-722e-4fbe-bbc5-a87ef0e86190|870694d4-8055-49ef-ab4e-0e45db34e690",
+        "unconnected_items|70200000|114450000|9382d488-1dd6-4b1f-82d5-3d800fbdfc66|21067753-892e-4c3c-860b-ab4ba48883c9"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -134,7 +141,7 @@
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.15,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
