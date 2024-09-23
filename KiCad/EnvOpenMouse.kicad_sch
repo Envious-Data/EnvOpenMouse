@@ -5612,7 +5612,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6cd14e9a-a6bd-49f7-8561-e8d042b9baca")
 		(property "Reference" "J5"
 			(at 73.66 22.86 0)
@@ -5630,7 +5629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_2x02_P1.27mm_Vertical"
 			(at 72.39 28.575 0)
 			(effects
 				(font
@@ -7155,7 +7154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_2x02_P1.27mm_Vertical"
 			(at 72.39 39.37 0)
 			(effects
 				(font
