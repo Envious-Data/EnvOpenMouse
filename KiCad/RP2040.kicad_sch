@@ -6025,7 +6025,7 @@
 				)
 			)
 		)
-		(property "Value" "Button"
+		(property "Value" "B3U-1000P"
 			(at 24.13 46.99 0)
 			(effects
 				(font
@@ -7317,7 +7317,7 @@
 				)
 			)
 		)
-		(property "Value" "Button"
+		(property "Value" "B3U-1000P"
 			(at 114.3 132.08 0)
 			(effects
 				(font

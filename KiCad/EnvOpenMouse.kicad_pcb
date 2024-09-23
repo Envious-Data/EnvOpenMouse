@@ -218,7 +218,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -533,7 +533,7 @@
 		(path "/09ed0eb6-a7bd-4964-b06c-7c7b2e7cfe00")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -1510,7 +1510,7 @@
 		(path "/4df8bf2f-42eb-4727-8d7a-510c78b01122")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -2647,7 +2647,7 @@
 		(path "/f4e9b94c-afdb-4afe-a0a4-325b6bfa1396")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -2760,7 +2760,7 @@
 		(path "/d923f18b-24a1-4ea8-89e5-12994a06d815")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -3619,7 +3619,7 @@
 				)
 			)
 		)
-		(property "Value" "1n4002W"
+		(property "Value" "1n5819W"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3912,7 +3912,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 0 -7.62 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4847,7 +4847,7 @@
 		(path "/d923f18b-24a1-4ea8-89e5-12994a06d815")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -4908,7 +4908,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "90ecee78-f478-440a-a61d-4e1b64661877")
@@ -5636,7 +5636,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 0 -7.62 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6870,7 +6870,7 @@
 		(path "/438d56dc-f2d0-47e0-852a-e607833c7132")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -6931,7 +6931,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 0.635 2.965 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7342,7 +7342,7 @@
 		(path "/9de3c6bc-fca1-44e5-92fc-e15f0f259669")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -7403,7 +7403,7 @@
 				)
 			)
 		)
-		(property "Value" "Button"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7732,7 +7732,7 @@
 		(path "/56336442-1c6a-4232-8a7f-b77644c94c17")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -7845,7 +7845,7 @@
 		(path "/e6cc8fd1-225c-41dd-b5ef-6cb1dca3552c")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -8493,7 +8493,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8808,7 +8808,7 @@
 		(path "/e6cc8fd1-225c-41dd-b5ef-6cb1dca3552c")
 		(sheetname "Root")
 		(sheetfile "EnvOpenMouse.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -8869,7 +8869,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9771,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Value" "Button"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11097,7 +11097,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Socket"
 			(at 0.635 2.965 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11456,7 +11456,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -12370,7 +12370,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "7c3dbddb-5320-4a4a-83cd-fff791988790")
@@ -13648,7 +13648,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Socket"
 			(at 0.635 2.965 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14218,7 +14218,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 0 -7.62 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14663,7 +14663,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 0.635 2.965 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16916,7 +16916,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 0 2.965 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18015,7 +18015,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Socket"
 			(at 0 -3.405 0)
 			(layer "B.Fab")
 			(uuid "58023b64-dff1-428e-b94f-f87c9b087871")

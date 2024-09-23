@@ -1967,17 +1967,6 @@
 		)
 		(uuid "78efe587-e174-4c4e-9ac4-31048b1d18d8")
 	)
-	(text "KoreanHROParts \nUSB_C_Receptacle_HRO_TYPE-C-31-M-12"
-		(exclude_from_sim no)
-		(at 38.735 57.785 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a19f4766-fde8-4442-8b38-3aa1ad800aae")
-	)
 	(text "USB port and parts"
 		(exclude_from_sim no)
 		(at 17.78 19.685 0)
@@ -1991,9 +1980,9 @@
 		)
 		(uuid "af1053ee-f599-4ea9-8a0e-57848faf0177")
 	)
-	(text "D1 NEEDS to be 0omh resistor or 1n4002"
+	(text "D1 NEEDS to be 0omh resistor or schottky"
 		(exclude_from_sim no)
-		(at 50.8 29.21 0)
+		(at 49.53 40.64 0)
 		(effects
 			(font
 				(size 0.508 0.508)

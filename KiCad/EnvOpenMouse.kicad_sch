@@ -3985,7 +3985,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 82.2476 0)
 			(effects
 				(font
@@ -4253,7 +4253,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Socket"
 			(at 38.1 27.94 0)
 			(effects
 				(font
@@ -4394,7 +4394,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 115.57 22.225 0)
 			(effects
 				(font
@@ -4530,7 +4530,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 89.2326 0)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 96.2176 0)
 			(effects
 				(font
@@ -5615,15 +5615,15 @@
 		(fields_autoplaced yes)
 		(uuid "6cd14e9a-a6bd-49f7-8561-e8d042b9baca")
 		(property "Reference" "J5"
-			(at 73.66 23.495 0)
+			(at 73.66 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
-			(at 73.66 26.035 0)
+		(property "Value" "Conn_02x02 Socket"
+			(at 73.66 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5830,7 +5830,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 117.1726 0)
 			(effects
 				(font
@@ -6052,7 +6052,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 103.2026 0)
 			(effects
 				(font
@@ -6193,7 +6193,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 73.66 48.26 0)
 			(effects
 				(font
@@ -6333,7 +6333,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 115.57 27.94 0)
 			(effects
 				(font
@@ -6402,7 +6402,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "B3U-1000P"
 			(at 128.905 110.1876 0)
 			(effects
 				(font
@@ -7140,15 +7140,15 @@
 		(fields_autoplaced yes)
 		(uuid "cf57dd56-17fb-40df-90bc-0be9537b76e1")
 		(property "Reference" "J6"
-			(at 73.66 34.29 0)
+			(at 73.66 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
-			(at 73.66 36.83 0)
+		(property "Value" "Conn_02x02 Socket"
+			(at 73.66 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7287,7 +7287,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_SPDT"
+		(property "Value" "Kailh GM switch"
 			(at 115.57 34.925 0)
 			(effects
 				(font
@@ -7355,7 +7355,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 73.66 59.055 0)
 			(effects
 				(font
@@ -7898,7 +7898,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Top_Bottom"
+		(property "Value" "Conn_02x02 Pins"
 			(at 38.1 38.735 0)
 			(effects
 				(font
